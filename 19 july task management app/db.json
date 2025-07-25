@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Prepare Presentation",
+      "description": "Create slides for the upcoming project meeting.",
+      "dueDate": "2025-07-25"
+    },
+    {
+      "id": "2",
+      "title": "Update Portfolio Website",
+      "description": "Add recent projects and optimize for SEO.",
+      "dueDate": "2025-07-30"
+    },
+    {
+      "id": "3",
+      "title": "Read Industry Articles",
+      "description": "Stay updated with the latest trends in tech.",
+      "dueDate": "2025-08-05"
+    },
+    {
+      "title": "Task 4",
+      "description": "Hello",
+      "dueDate": "2025-07-30",
+      "id": "68b7"
+    }
+  ]
+}
